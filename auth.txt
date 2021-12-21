@@ -1,0 +1,10 @@
+#username and password can't exceed 6 characters each
+#the 4 numbers represents the unique encryption key
+root:root=4646
+admin:admin=9795
+maawox:xowaam=9979
+hector:brun=4996
+zcrypt:zcrypt=2299
+iCrew:nawak=5674
+yahoo:msn=2974
+moon:dog=9898

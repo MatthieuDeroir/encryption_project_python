@@ -1,0 +1,296 @@
+
+[15/12/2021 18:23:57]- A user tried to log in
+[15/12/2021 18:23:57] - root succeded to log in
+[15/12/2021 18:31:09]- A user tried to log in
+[15/12/2021 18:31:18]- A user tried to log in
+[15/12/2021 18:32:18]- A user tried to log in
+[15/12/2021 18:32:47]- A user tried to log in
+[15/12/2021 18:33:13]- A user tried to log in
+[15/12/2021 18:33:31]- A user tried to log in
+[15/12/2021 18:34:39]- A user tried to log in
+[15/12/2021 18:41:11]- A user tried to log in
+[15/12/2021 18:41:21]- A user tried to log in
+[15/12/2021 18:41:37]- A user tried to log in
+[15/12/2021 18:42:22]- A user tried to log in
+[15/12/2021 18:43:26]- A user tried to log in
+[15/12/2021 18:43:33]- A user tried to log in
+[15/12/2021 18:44:19]- A user tried to log in
+[15/12/2021 18:44:36]- A user tried to log in
+[15/12/2021 18:44:36] - root succeded to log in
+[15/12/2021 18:45:03]- A user tried to log in
+[15/12/2021 18:45:03] - root succeded to log in
+[15/12/2021 18:45:26]- A user tried to log in
+[15/12/2021 18:45:26] - root succeded to log in
+[15/12/2021 18:45:52]- A user tried to log in
+[15/12/2021 18:45:52] - root succeded to log in
+[15/12/2021 18:49:06]- A user tried to log in
+[15/12/2021 18:50:42]- A user tried to log in
+[15/12/2021 18:50:49]- A user tried to log in
+[15/12/2021 18:51:03]- A user tried to log in
+[15/12/2021 19:02:01]- A user tried to log in
+[15/12/2021 19:02:58]- A user tried to log in
+[15/12/2021 19:02:58]- A user failed to log in
+[15/12/2021 19:02:58]- A user failed to log in
+[15/12/2021 19:02:58]- A user failed to log in
+[15/12/2021 19:02:58]- A user failed to log in
+[15/12/2021 19:02:58]- A user failed to log in
+[15/12/2021 19:02:58]- A user failed to log in
+[15/12/2021 19:03:48]- A user tried to log in
+[15/12/2021 19:04:25]- A user tried to log in
+[15/12/2021 19:04:55]- A user tried to log in
+[15/12/2021 19:04:55] - root succeded to log in
+[15/12/2021 19:05:37]- A user tried to log in
+[15/12/2021 19:05:37]- A user failed to log in
+[15/12/2021 19:05:37]- A user failed to log in
+[15/12/2021 19:05:37]- A user failed to log in
+[15/12/2021 19:05:37]- A user failed to log in
+[15/12/2021 19:05:37]- A user failed to log in
+[15/12/2021 19:05:37]- A user failed to log in
+[15/12/2021 19:06:01]- A user tried to log in
+[15/12/2021 19:22:30]- A user tried to log in
+[15/12/2021 19:22:30] - root succeded to log in
+[15/12/2021 20:41:35]- A user tried to log in
+[15/12/2021 20:41:35] - root succeded to log in
+[15/12/2021 20:42:51]- A user tried to log in
+[15/12/2021 20:42:51] - root succeded to log in
+[15/12/2021 20:45:06]- A user tried to log in
+[15/12/2021 20:45:35]- A user tried to log in
+[15/12/2021 20:47:39]- A user tried to log in
+[15/12/2021 20:48:41]- A user tried to log in
+[15/12/2021 20:48:41] - root succeded to log in
+[16/12/2021 07:30:01]- A user tried to log in
+[16/12/2021 07:30:01] - root succeded to log in
+[16/12/2021 07:31:21]- A user tried to log in
+[16/12/2021 07:31:21] - root succeded to log in
+[16/12/2021 07:33:09]- A user tried to log in
+[16/12/2021 07:33:09] - zcrypt succeded to log in
+[16/12/2021 07:36:43]- A user tried to log in
+[16/12/2021 07:36:43] - zcrypt succeded to log in
+[16/12/2021 07:37:13]- A user tried to log in
+[16/12/2021 07:37:13] - root succeded to log in
+[16/12/2021 07:38:40]- A user tried to log in
+[16/12/2021 07:38:40] - root succeded to log in
+[16/12/2021 07:41:34]- A user tried to log in
+[16/12/2021 07:41:34] - root succeded to log in
+[16/12/2021 07:54:58]- A user tried to log in
+[16/12/2021 07:54:58] - root succeded to log in
+[16/12/2021 07:56:31]- A user tried to log in
+[16/12/2021 07:56:31] - root succeded to log in
+[16/12/2021 07:59:15]- A user tried to log in
+[16/12/2021 07:59:15] - root succeded to log in
+[16/12/2021 08:00:14]- A user tried to log in
+[16/12/2021 08:00:14]- A user failed to log in
+[16/12/2021 08:00:14]- A user failed to log in
+[16/12/2021 08:00:14]- A user failed to log in
+[16/12/2021 08:00:14]- A user failed to log in
+[16/12/2021 08:00:14]- A user failed to log in
+[16/12/2021 08:00:14]- A user failed to log in
+[16/12/2021 09:47:36]- A user tried to log in
+[16/12/2021 09:47:36] - root succeded to log in
+[16/12/2021 09:48:26]- A user tried to log in
+[16/12/2021 09:48:26]- A user failed to log in
+[16/12/2021 09:48:26]- A user failed to log in
+[16/12/2021 09:48:26]- A user failed to log in
+[16/12/2021 09:48:26]- A user failed to log in
+[16/12/2021 09:48:26]- A user failed to log in
+[16/12/2021 09:48:26]- A user failed to log in
+[16/12/2021 09:48:45]- A user tried to log in
+[16/12/2021 09:49:50]- A user tried to log in
+[16/12/2021 09:49:50]- A user failed to log in
+[16/12/2021 09:49:50]- A user failed to log in
+[16/12/2021 09:49:50]- A user failed to log in
+[16/12/2021 09:49:50]- A user failed to log in
+[16/12/2021 09:49:50]- A user failed to log in
+[16/12/2021 09:49:50]- A user failed to log in
+[16/12/2021 09:52:26]- A user tried to log in
+[16/12/2021 10:01:02]- A user tried to log in
+[16/12/2021 10:01:02]- root succeded to log in
+[16/12/2021 10:09:38]- A user tried to log in
+[16/12/2021 10:09:50]- A user tried to log in
+[16/12/2021 10:09:50]- iCrew succeded to log in
+[16/12/2021 10:17:46]- A user tried to log in
+[16/12/2021 10:17:46]- root succeded to log in
+[16/12/2021 10:17:46]- ./files/root_file.txt has been created by root.
+[16/12/2021 10:17:46]- ./files/root_file.txt has been decrypted by root.
+[16/12/2021 10:17:46]- ./files/root_file.txt has been encrypted by root.
+[16/12/2021 10:17:46]- root has been disconnected.
+[17/12/2021 14:18:49]- A user tried to log in
+[17/12/2021 14:18:49]- root succeded to log in
+[17/12/2021 14:18:49]- root has been disconnected.
+[17/12/2021 14:20:56]- A user tried to log in
+[17/12/2021 14:20:56]- root succeded to log in
+[17/12/2021 14:22:32]- A user tried to log in
+[17/12/2021 14:22:32]- yahoo succeded to log in
+[17/12/2021 14:22:32]- yahoo has been disconnected.
+[17/12/2021 14:24:16]- A user tried to log in
+[17/12/2021 14:24:16]- root succeded to log in
+[17/12/2021 14:24:16]- root has been disconnected.
+[17/12/2021 15:03:03]- A user tried to log in
+[17/12/2021 15:04:02]- A user tried to log in
+[17/12/2021 15:04:02]- A user failed to log in
+[17/12/2021 15:04:02]- A user failed to log in
+[17/12/2021 15:04:02]- A user failed to log in
+[17/12/2021 15:04:02]- A user failed to log in
+[17/12/2021 15:04:02]- A user failed to log in
+[17/12/2021 15:04:02]- A user failed to log in
+[17/12/2021 15:04:31]- A user tried to log in
+[17/12/2021 15:05:46]- A user tried to log in
+[17/12/2021 15:05:46]- A user failed to log in
+[17/12/2021 15:05:46]- A user failed to log in
+[17/12/2021 15:05:46]- A user failed to log in
+[17/12/2021 15:05:46]- A user failed to log in
+[17/12/2021 15:05:46]- A user failed to log in
+[17/12/2021 15:05:46]- A user failed to log in
+[17/12/2021 15:06:08]- A user tried to log in
+[17/12/2021 15:06:08]- A user failed to log in
+[17/12/2021 15:06:08]- A user failed to log in
+[17/12/2021 15:06:08]- A user failed to log in
+[17/12/2021 15:06:08]- A user failed to log in
+[17/12/2021 15:06:08]- A user failed to log in
+[17/12/2021 15:06:08]- A user failed to log in
+[17/12/2021 15:07:38]- A user tried to log in
+[17/12/2021 15:07:59]- A user tried to log in
+[17/12/2021 15:08:20]- A user tried to log in
+[17/12/2021 15:08:20]- A user failed to log in
+[17/12/2021 15:08:20]- A user failed to log in
+[17/12/2021 15:08:20]- A user failed to log in
+[17/12/2021 15:08:20]- A user failed to log in
+[17/12/2021 15:08:20]- A user failed to log in
+[17/12/2021 15:08:20]- A user failed to log in
+[17/12/2021 15:08:50]- A user tried to log in
+[17/12/2021 15:09:50]- A user tried to log in
+[17/12/2021 15:09:50]- A user failed to log in
+[17/12/2021 15:09:50]- A user failed to log in
+[17/12/2021 15:09:50]- A user failed to log in
+[17/12/2021 15:09:50]- A user failed to log in
+[17/12/2021 15:09:50]- A user failed to log in
+[17/12/2021 15:09:50]- A user failed to log in
+[17/12/2021 15:10:08]- A user tried to log in
+[17/12/2021 15:13:39]- A user tried to log in
+[17/12/2021 15:13:47]- A user tried to log in
+[17/12/2021 15:14:43]- A user tried to log in
+[17/12/2021 15:14:43]- A user failed to log in
+[17/12/2021 15:14:43]- A user failed to log in
+[17/12/2021 15:14:43]- A user failed to log in
+[17/12/2021 15:14:43]- A user failed to log in
+[17/12/2021 15:14:43]- A user failed to log in
+[17/12/2021 15:14:43]- A user failed to log in
+[17/12/2021 15:15:11]- A user tried to log in
+[17/12/2021 15:16:36]- A user tried to log in
+[17/12/2021 15:16:36]- root succeded to log in
+[17/12/2021 15:16:36]- ./files/aristotle.txt has been read by root.
+[17/12/2021 15:16:36]- ./files/bank accounts.txt has been read by root.
+[17/12/2021 15:16:36]- ./files/bank accounts.txt has been read by root.
+[17/12/2021 15:16:36]- ./files/bank accounts.txt has been read by root.
+[17/12/2021 15:23:43]- A user tried to log in
+[17/12/2021 15:23:43]- root succeded to log in
+[17/12/2021 15:23:43]- ./files/bank accounts.txt has been encrypted by root.
+[17/12/2021 15:23:43]- ./files/bank accounts.txt has been decrypted by root.
+[17/12/2021 15:25:30]- A user tried to log in
+[17/12/2021 15:25:30]- root succeded to log in
+[17/12/2021 15:27:04]- A user tried to log in
+[17/12/2021 15:27:55]- A user tried to log in
+[17/12/2021 15:27:55]- root succeded to log in
+[17/12/2021 15:27:55]- ./files/gold.txt has been created by root.
+[17/12/2021 15:27:55]- ./files/gold.txt has been read by root.
+[17/12/2021 15:27:55]- root has been disconnected.
+[17/12/2021 15:30:02]- A user tried to log in
+[17/12/2021 15:30:02]- root succeded to log in
+[17/12/2021 15:33:18]- A user tried to log in
+[17/12/2021 15:33:18]- root succeded to log in
+[17/12/2021 15:33:58]- A user tried to log in
+[17/12/2021 15:33:58]- root succeded to log in
+[17/12/2021 15:34:15]- A user tried to log in
+[17/12/2021 15:34:15]- root succeded to log in
+[17/12/2021 15:35:00]- A user tried to log in
+[17/12/2021 15:35:00]- root succeded to log in
+[17/12/2021 15:35:23]- A user tried to log in
+[17/12/2021 15:35:38]- A user tried to log in
+[17/12/2021 15:35:38]- root succeded to log in
+[17/12/2021 15:37:05]- A user opened the software
+[17/12/2021 15:37:05]- root succesfully loged in
+[17/12/2021 15:37:05]- root has been disconnected.
+[17/12/2021 15:46:28]- A user has started the software
+[17/12/2021 15:46:56]- A user has started the software
+[17/12/2021 15:47:35]- A user has started the software
+[17/12/2021 15:47:41]- A user has started the software
+[17/12/2021 15:48:38]- A user has started the software
+[17/12/2021 15:48:38]- An unknown user has exited the software
+[17/12/2021 15:48:42]- A user has started the software
+[17/12/2021 15:48:42]- root succesfully loged in
+[17/12/2021 15:48:42]- root has been disconnected.
+[17/12/2021 15:48:53]- A user has started the software
+[17/12/2021 15:48:53]- root succesfully loged in
+[17/12/2021 15:48:53]- root has been disconnected.
+[17/12/2021 17:07:33]- A user has started the software
+[17/12/2021 17:07:33]- root succesfully loged in
+[17/12/2021 17:07:33]- ./files/FILE_NAME_.txt has been created by root.
+[17/12/2021 17:07:33]- ./files/FILE_NAME_.txt has been encrypted by root.
+[17/12/2021 17:09:51]- A user has started the software
+[17/12/2021 17:09:51]- root succesfully loged in
+[17/12/2021 17:09:51]- ./files/FILE_NAME_.txt has been read by root.
+[17/12/2021 17:10:34]- A user has started the software
+[17/12/2021 17:10:34]- root succesfully loged in
+[17/12/2021 17:10:34]- ./files/FILE_NAME_.txt has been decrypted by root.
+[17/12/2021 17:11:34]- A user has started the software
+[17/12/2021 17:11:34]- root succesfully loged in
+[17/12/2021 17:11:34]- ./files/FILE_NAME_.txt has been encrypted by root.
+[17/12/2021 17:12:25]- A user has started the software
+[17/12/2021 17:12:25]- root succesfully loged in
+[17/12/2021 17:12:25]- ./files/Aristotle.txt has been encrypted by root.
+[17/12/2021 17:13:08]- A user has started the software
+[17/12/2021 17:13:15]- A user has started the software
+[17/12/2021 17:13:15]- root succesfully loged in
+[17/12/2021 17:13:15]- ./files/Aristotle.txt has been encrypted by root.
+[17/12/2021 17:13:15]- ./files/FILE_NAME_.txt has been encrypted by root.
+[17/12/2021 17:13:15]- ./files/Aristotle.txt has been encrypted by root.
+[19/12/2021 18:36:12]- A user has started the software
+[19/12/2021 18:36:12]- root succesfully loged in
+[19/12/2021 18:36:12]- ./files/AC.txt has been created by root.
+[19/12/2021 18:36:12]- ./files/AC.txt has been read by root.
+[19/12/2021 18:36:12]- ./files/AC.txt has been encrypted by root.
+[19/12/2021 18:36:12]- ./files/AC.txt has been decrypted by root.
+[19/12/2021 18:36:12]- root has been disconnected.
+[19/12/2021 18:41:08]- A user has started the software
+[20/12/2021 12:21:41]- A user has started the software
+[20/12/2021 12:21:41]- A user failed to log in
+[20/12/2021 12:21:41]- A user failed to log in
+[20/12/2021 12:21:41]- A user failed to log in
+[20/12/2021 12:21:41]- A user failed to log in
+[20/12/2021 12:21:41]- A user failed to log in
+[20/12/2021 12:21:41]- A user failed to log in
+[20/12/2021 12:22:00]- A user has started the software
+[20/12/2021 12:24:34]- A user has started the software
+[20/12/2021 12:24:34]- root succesfully loged in
+[20/12/2021 12:24:34]- ./files/new_encryption_model_test.txt has been created by root.
+[20/12/2021 12:26:23]- A user has started the software
+[20/12/2021 12:26:23]- root succesfully loged in
+[20/12/2021 12:27:01]- A user has started the software
+[20/12/2021 12:27:01]- root succesfully loged in
+[20/12/2021 12:27:01]- ./files/new_encryption_model_test.txt has been encrypted by root.
+[20/12/2021 12:28:42]- A user has started the software
+[20/12/2021 12:28:42]- root succesfully loged in
+[20/12/2021 12:28:42]- ./files/new_encryption_model_test.txt has been decrypted by root.
+[20/12/2021 12:29:23]- A user has started the software
+[20/12/2021 12:29:23]- root succesfully loged in
+[20/12/2021 12:30:27]- A user has started the software
+[20/12/2021 12:30:27]- root succesfully loged in
+[20/12/2021 12:30:27]- ./files/new_encryption_model_test.txt has been decrypted by root.
+[20/12/2021 12:30:27]- ./files/new_encryption_model_test.txt has been created by root.
+[20/12/2021 12:30:27]- ./files/new_encryption_model_test.txt has been encrypted by root.
+[20/12/2021 12:30:27]- ./files/new_encryption_model_test.txt has been decrypted by root.
+[20/12/2021 12:30:27]- root has been disconnected.
+[20/12/2021 12:39:47]- A user has started the software
+[20/12/2021 12:39:47]- moon succesfully loged in
+[20/12/2021 12:42:46]- A user has started the software
+[20/12/2021 12:42:55]- A user has started the software
+[20/12/2021 12:43:20]- A user has started the software
+[20/12/2021 12:43:20]- moon succesfully loged in
+[21/12/2021 20:15:56]- A user has started the software
+[21/12/2021 20:15:56]- A user failed to log in
+[21/12/2021 20:15:56]- A user failed to log in
+[21/12/2021 20:15:56]- A user failed to log in
+[21/12/2021 20:15:56]- A user failed to log in
+[21/12/2021 20:15:56]- A user failed to log in
+[21/12/2021 20:15:56]- A user failed to log in
+[21/12/2021 20:16:14]- A user has started the software
